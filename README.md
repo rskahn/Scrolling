@@ -1,10 +1,8 @@
-# Scrolling
-
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Henri de Toulouse-Lautrec"
-       author="Rebecca Kahn"
+       title="Girl with a Pearl Earring"
+       author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
@@ -26,13 +24,14 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-Comte Henri Marie Raymond de Toulouse-Lautrec-Monfa (24 November 1864 – 9 September 1901) was a French painter, printmaker, draughtsman, caricaturist and illustrator whose immersion in the colorful and theatrical life of Paris in the late 19th century allowed him to produce a collection of enticing, elegant, and provocative images of the modern, sometimes decadent, affairs of those times.
+_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
+20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Tolouse-Lautrec" 
-       description="painting by Tolouse Lautrec" 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wiki/commons/Henri_de_Toulouse-Lautrec#/media/File:Lautrec_moulin_rouge,_la_goulue_(poster)_1891.jpg">
-      
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Map
 
@@ -51,4 +50,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
+
 
