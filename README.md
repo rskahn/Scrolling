@@ -5,7 +5,7 @@
 <param ve-config 
        title="Henri de Toulouse-Lautrec"
        author="Rebecca Kahn"
-       banner="<p><a href="https://commons.wikimedia.org/wiki/File:Lautrec_moulin_rouge,_la_goulue_(poster)_1891.jpg#/media/File:Lautrec_moulin_rouge,_la_goulue_(poster)_1891.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Lautrec_moulin_rouge%2C_la_goulue_%28poster%29_1891.jpg" alt="Lautrec moulin rouge, la goulue (poster) 1891.jpg"></a><br>By &lt;a href="https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec" class="extiw" title="w:en:Henri de Toulouse-Lautrec"&gt;&lt;span title="French painter and illustrator (1864–1901)"&gt;Henri de Toulouse-Lautrec&lt;/span&gt;&lt;/a&gt; - &lt;a rel="nofollow" class="external autonumber" href="http://www.an-no.hu/img/images/Sima/Lautrec_moulin_rouge2C_la_goulue_28poster29_1891.jpg"&gt;[1]&lt;/a&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=109488">Link</a></p>" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
