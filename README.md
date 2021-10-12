@@ -5,7 +5,7 @@
 <param ve-config 
        title="Henri de Toulouse-Lautrec"
        author="Rebecca Kahn"
-       banner="<p><a href="https://commons.wikimedia.org/wiki/File:Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg#/media/File:Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg/1200px-Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg" alt="Henri de Toulouse-Lautrec - At the Moulin Rouge - Google Art Project.jpg"></a><br>By &lt;a href="https://en.wikipedia.org/wiki/en:Henri_de_Toulouse-Lautrec" class="extiw" title="w:en:Henri de Toulouse-Lautrec"&gt;&lt;span title="French painter and illustrator (1864–1901)"&gt;Henri de Toulouse-Lautrec&lt;/span&gt;&lt;/a&gt; - &lt;a rel="nofollow" class="external text" href="//www.google.com/culturalinstitute/asset-viewer/pAGg8GwiHleSkA"&gt;pAGg8GwiHleSkA at Google Cultural Institute&lt;/a&gt; maximum zoom level, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=21909181">Link</a></p>" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -26,12 +26,13 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-Comte Henri Marie Raymond de Toulouse-Lautrec-Monfa (24 November 1864 – 9 September 1901) was a French painter, printmaker, draughtsman, caricaturist and illustrator whose immersion in the colorful and theatrical life of Paris in the late 19th century allowed him to produce a collection of enticing, elegant, and provocative images of the modern, sometimes decadent, affairs of those times.[^1]
+Comte Henri Marie Raymond de Toulouse-Lautrec-Monfa (24 November 1864 – 9 September 1901) was a French painter, printmaker, draughtsman, caricaturist and illustrator whose immersion in the colorful and theatrical life of Paris in the late 19th century allowed him to produce a collection of enticing, elegant, and provocative images of the modern, sometimes decadent, affairs of those times.
 <param ve-image 
        label="Tolouse-Lautrec" 
        description="painting by Tolouse Lautrec" 
        license="public domain" 
-
+       url="https://upload.wikimedia.org/wiki/commons/Henri_de_Toulouse-Lautrec#/media/File:Lautrec_moulin_rouge,_la_goulue_(poster)_1891.jpg">
+      
 
 ## Map
 
