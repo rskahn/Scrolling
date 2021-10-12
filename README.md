@@ -5,7 +5,7 @@
 <param ve-config 
        title="Henri de Toulouse-Lautrec"
        author="Rebecca Kahn"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://commons.wikimedia.org/wiki/Henri_de_Toulouse-Lautrec#/media/File:Lautrec_moulin_rouge,_la_goulue_(poster)_1891.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
